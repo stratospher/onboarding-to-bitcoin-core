@@ -1,5 +1,9 @@
 = Consensus & validation
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
+== What is consensus
+
 One of the most fundamental concepts behind bitcoin is that nodes are able to maintain decentralised consensus on the ordering of transactions in the system.
 The primary mechanism behind this relies on all nodes validating two things against their own copy of the (consensus) rules:
 

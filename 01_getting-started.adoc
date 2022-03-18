@@ -1,10 +1,19 @@
 = Getting started with Bitcoin Core
 
-This document was created from Bitcoin Core at commit https://github.com/bitcoin/bitcoin/tree/4b5659c6b115315c9fd2902b4edd4b960a5e066e[4b5659c6]
-
 WARNING: Whilst this disclaimer is present this documentation is considered a work in progress and may be subject to minor or major changes at any time without notice.
 
-WARNING: This documentation can temporarily be found hosted at https://obc.256k1.dev[], however the hosted location is likely to change in the near future.
+WARNING: This documentation can temporarily be found hosted at https://obc.256k1.dev[], however the host location is likely to change in the near future.
+
+== Disclaimers
+
+This document was originally created from Bitcoin Core at commit https://github.com/bitcoin/bitcoin/tree/4b5659c6b115315c9fd2902b4edd4b960a5e066e[4b5659c6], so much of the information contained (and code snippets) relates to the codebase as it was at that time.
+However in order to not become outdated new information will be added alongside developments in the project.
+As new information is added it may contain links to _newer_ versions of the source code.
+Information that has become out of date _may_ be removed (or marked as such), but it is not feasible to automatically update all links to source code in real time with the project.
+
+This may mean that, even within a single section, there could be documentation and code from different points in the source code timeline.
+
+IMPORTANT: When interpreting information from this document you should check to ensure that the information is still current as per the latest Bitcoin Core release (or tip of master branch) before you can consider it both current and correct.
 
 == Building Bitcoin Core from source
 

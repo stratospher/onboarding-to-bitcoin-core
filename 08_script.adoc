@@ -1,5 +1,7 @@
 = Script
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
 == What is script
 
 Bitcoin "addresses" that "store" funds are in reality cryptographic challenges that, in order to be spent, need to be solved by providing a solution whilst adhering to the rules of the system.

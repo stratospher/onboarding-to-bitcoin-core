@@ -1,5 +1,7 @@
 = Mempool
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
 == Purpose
 
 . The mempool is designed to hold a list of unconfirmed but valid-according to the current best-chain transactions that the node knows about.

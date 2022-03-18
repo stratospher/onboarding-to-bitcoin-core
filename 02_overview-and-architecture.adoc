@@ -1,5 +1,7 @@
 = Overview & architecture of Bitcoin Core
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
 == Decentralised development
 
 Olivia Lovenmark and Amiti Uttarwar describe in their blog post https://blog.okcoin.com/2020/09/15/developing-bitcoin/[Developing Bitcoin] how changes to bitcoin follow the pathway from proposal to being merged into the software, and finally adopted by users.

@@ -1,5 +1,7 @@
 = Wallet
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
 == Overview
 
 . Wallets are stored on disk as databases, either using Berkeley Database (BDB) or sqlite format.

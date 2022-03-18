@@ -1,5 +1,7 @@
 = P2P
 
+See <<Disclaimers>> for more information on how to interpret this documentation.
+
 == Design philosophy
 
 Bitcoin Core's P2P design philosophy is outlined in the bitcoin devwiki article https://github.com/bitcoin-core/bitcoin-devwiki/wiki/P2P-Design-Philosophy[P2P Design Philosophy].
